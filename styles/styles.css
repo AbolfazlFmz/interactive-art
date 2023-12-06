@@ -1,9 +1,5 @@
 /* Fonts */
 @font-face {
-	font-family: ttlight;
-	src: url("../fonts/TTNorms-Light.otf") format("OpenType");
-}
-@font-face {
 	font-family: ttregular;
 	src: url("../fonts/TTNorms-Regular.otf") format("OpenType");
 }
