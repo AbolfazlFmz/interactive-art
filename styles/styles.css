@@ -297,7 +297,7 @@ h6 {
 }
 /* Start Project */
 :root {
-	font-size: 10px;
+	font-size: 62.5%;
 	scroll-behavior: smooth;
 }
 body {
@@ -722,19 +722,19 @@ body {
 	content: " ";
 	position: absolute;
 	width: 80px;
-	height: 500px;
+	height: 600px;
 	transform: skew(-45deg);
 	top: -150%;
 	left: -30%;
 	background-image: linear-gradient(
 		to right,
 		rgba(255, 255, 255, 0),
-		rgba(255, 255, 255, 0.4),
+		rgba(255, 255, 255, 0.3),
 		rgba(255, 255, 255, 0)
 	);
 }
 .portfolio-img:hover::before {
-	animation: shine 1300ms ease;
+	animation: shine 1200ms ease;
 }
 .contactus {
 	margin-top: 16rem;
